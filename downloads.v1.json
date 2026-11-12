@@ -1,6 +1,19 @@
 {
-  "macos": null,
+  "macos": {
+    "version": "0.3.0",
+    "publishedAt": "2026-11-12T08:18:09Z",
+    "channel": "direct",
+    "url": "https://github.com/GaoBais/pia-releases/releases/download/v0.3.0/Pia-0.3.0-macos-arm64.dmg",
+    "sha256": "19ad94375583e30a261a63599533a9ff83f099c22a6069a9367d9f1f31383dfb",
+    "architecture": "arm64"
+  },
   "ios": null,
-  "android": null,
+  "android": {
+    "version": "0.3.0",
+    "publishedAt": "2026-11-12T08:18:09Z",
+    "channel": "direct",
+    "url": "https://github.com/GaoBais/pia-releases/releases/download/v0.3.0/Pia-0.3.0-android.apk",
+    "sha256": "b222766ed0fd41a7807198904fa02aa508c3aa0cbcf2bc186f3e63a3fe8b6fd1"
+  },
   "windows": null
 }
