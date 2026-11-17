@@ -7,7 +7,12 @@
     "sha256": "19ad94375583e30a261a63599533a9ff83f099c22a6069a9367d9f1f31383dfb",
     "architecture": "arm64"
   },
-  "ios": null,
+  "ios": {
+    "version": "0.3.0",
+    "publishedAt": "2026-11-15T10:47:06Z",
+    "channel": "app-store",
+    "url": "https://apps.apple.com/app/id6833777300"
+  },
   "android": {
     "version": "0.3.0",
     "publishedAt": "2026-11-12T08:18:09Z",
